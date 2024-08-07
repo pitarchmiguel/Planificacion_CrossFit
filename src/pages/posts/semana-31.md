@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/WorkoutLayout.astro;
 sesion: 1;
 ---
 # **A - StrictPull-ups**
